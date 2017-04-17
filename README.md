@@ -14,6 +14,12 @@ $ cd hexo-archives
 $ npm install hexo --save
 $ npm install hexo-cli --save
 
+## hexo setting
+$ hexo init
+
+## git setting
+$ git remote add https://github.com/wonmoyang/hexo-archives.git
+
 ## deploy plugin (git)
 $ npm install hexo-deployer-git --save
 ```

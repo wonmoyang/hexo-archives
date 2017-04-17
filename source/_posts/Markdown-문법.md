@@ -1,4 +1,3 @@
----
 title: Markdown 문법
 categories:
   - Blog
@@ -9,10 +8,9 @@ tags:
   - 마크다운
   - 마크다운 문법
   - 마크다운 사용법
+thumbnail: /images/markdown.png
 date: 2017-04-13 14:58:02
-thumbnail: images/markdown.png
 ---
-
 목차
 ====
 
