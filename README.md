@@ -18,7 +18,8 @@ $ npm install hexo-cli --save
 $ hexo init
 
 ## git setting
-$ git remote add https://github.com/wonmoyang/hexo-archives.git
+$ git init
+$ git remote add blog https://github.com/wonmoyang/hexo-archives.git
 
 ## deploy plugin (git)
 $ npm install hexo-deployer-git --save
