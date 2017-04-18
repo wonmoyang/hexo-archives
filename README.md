@@ -1,27 +1,22 @@
 ---
 title: hexo-archives
 ---
-## checkout a repository
-``` bash
-$ git clone https://github.com/wonmoyang/hexo-archives.git
-```
 
-## npm install
+## 환경구성
 ``` bash
+$ hexo init hexo-archives
 $ cd hexo-archives
+$
+$ git init
+$ git remote add origin https://github.com/wonmoyang/hexo-archives.git
+$ git fetch
+$
+$ git reset --hard origin/master
+$ git pull origin master
+$
 
 ## hexo plugin
 $ npm install hexo --save
 $ npm install hexo-cli --save
-$ npm install --save hexo-admin
-
-## hexo setting
-$ hexo init
-
-## git setting
-$ git init
-$ git remote add blog https://github.com/wonmoyang/hexo-archives.git
-
-## deploy plugin (git)
+$ npm install hexo-admin --save
 $ npm install hexo-deployer-git --save
-```
