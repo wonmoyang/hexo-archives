@@ -13,6 +13,7 @@ $ cd hexo-archives
 ## hexo plugin
 $ npm install hexo --save
 $ npm install hexo-cli --save
+$ npm install --save hexo-admin
 
 ## hexo setting
 $ hexo init
