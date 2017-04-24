@@ -20,3 +20,4 @@ $ npm install hexo --save
 $ npm install hexo-cli --save
 $ npm install hexo-admin --save
 $ npm install hexo-deployer-git --save
+$ npm install hexo-generator-json-content --save
