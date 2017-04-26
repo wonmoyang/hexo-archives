@@ -129,5 +129,5 @@ $ git push - u origin master
 ```bash
 git commit -m 'initial commit' 
 git add README
-git commit --amend
+git commit --amend   
 ```
