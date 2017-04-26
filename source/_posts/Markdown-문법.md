@@ -24,10 +24,6 @@ Markdown은 복잡한 HTML 태그를 사용하지 않더라도 일반 텍스트�
 * ** [리스트 (Lists)](#list)**
 * ** [테이블 (Tables)](#table)**
 * ** [이미지 (Images)](#image)**
-<<<<<<< HEAD
-=======
-* ** [각주 (Footnotes)](#footnote)**
->>>>>>> bca6bc0f0b5a18be4c34790e8701aab892607155
 ***
 
 </br>
@@ -169,9 +165,4 @@ public class CodeBlock(){
 | `링크 이미지`	    | `![alt title](https://wonmoyang.github.io/images/link_image.jpg)` | ![link_image](https://wonmoyang.github.io/images/link_image.jpg)
 | `참조 이미지`	    | `![alt title][1]` </br> `[1]:/images/reference_image.png` | ![reference_image](/images/reference_image.png)
 
-<<<<<<< HEAD
 </br>
-
-=======
-</br>
->>>>>>> bca6bc0f0b5a18be4c34790e8701aab892607155
